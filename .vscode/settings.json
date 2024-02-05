@@ -1,0 +1,13 @@
+{
+    "python.languageServer": "Pylance",
+    "python.linting.pylintEnabled": false,
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none"
+    },
+    "python.analysis.extraPaths": [
+        "",
+        "/Users/jonahadler/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.20-darwin-x64/stubs",
+        "/Users/jonahadler/Library/Application Support/Code/User/globalStorage/joedevivo.vscode-circuitpython/bundle/20240130/adafruit-circuitpython-bundle-py-20240130/lib"
+    ],
+    "circuitpython.board.version": "8.2.9"
+}

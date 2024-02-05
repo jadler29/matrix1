@@ -1,0 +1,3 @@
+Adafruit CircuitPython 8.2.9 on 2023-12-06; Adafruit Matrix Portal M4 with samd51j19
+Board ID:matrixportal_m4
+UID:BC81DDD6463548532020205437380EFF
